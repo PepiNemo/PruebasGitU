@@ -1,1 +1,1 @@
-print("   Hola banda hermosa")
+print("Hola banda hermosa")
